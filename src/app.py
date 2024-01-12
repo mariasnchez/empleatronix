@@ -1,6 +1,3 @@
-pip install matplotlib==3.4.3
-
-
 import streamlit as st
 import pandas as pd
 import numpy as np
